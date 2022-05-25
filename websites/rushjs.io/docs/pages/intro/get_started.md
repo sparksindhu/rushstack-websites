@@ -14,6 +14,12 @@ $ npm install -g @microsoft/rush
 
 (Don't type the **"$"** of course.) :-)
 
+**Try this if above command didn't work:**
+
+```sh
+$ volta run npm install -g @microsoft/rush
+```
+
 **For command-line help, do this:**
 
 ```sh
